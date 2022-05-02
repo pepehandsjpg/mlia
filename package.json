@@ -1,0 +1,33 @@
+{
+    "name": "mlia",
+    "displayName": "mlia",
+    "description": "unembellished vscode theme",
+    "icon": "icon.png",
+    "version": "0.0.1",
+    "publisher": "grdthh",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/grdthh/mlia.git"
+    },
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "mlia light",
+                "uiTheme": "vs",
+                "path": "./themes/mlia-light-color-theme.json"
+            },
+            {
+                "label": "mlia dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/mlia-dark-color-theme.json"
+            }
+        ]
+    }
+}
