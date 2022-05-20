@@ -3,12 +3,18 @@
     "displayName": "mliaa",
     "description": "unembellished vscode theme",
     "icon": "icon.png",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "grdthh",
     "license": "MIT",
+    "maintainers": [
+        "Igor Sudilovskiy <isudilovskiy@gmail.com>"
+    ],
     "repository": {
         "type": "git",
         "url": "https://github.com/grdthh/mlia.git"
+    },
+    "bugs": {
+        "url": "https://github.com/grdthh/mlia/issues"
     },
     "engines": {
         "vscode": "^1.65.0"
