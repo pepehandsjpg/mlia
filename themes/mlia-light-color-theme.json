@@ -6,14 +6,21 @@
   "tokenColors": [
     {
       "name": "Comments",
-      "scope": ["comment", "punctuation.definition.comment"],
+      "scope": [
+        "comment",
+        "punctuation.definition.comment"
+      ],
       "settings": {
         "foreground": "#BF616A"
       }
     },
     {
       "name": "Strings",
-      "scope": ["string", "string.regexp", "constant.other.symbol"],
+      "scope": [
+        "string",
+        "string.regexp",
+        "constant.other.symbol"
+      ],
       "settings": {
         "foreground": "#6f9650"
       }
@@ -60,7 +67,11 @@
     },
     {
       "name": "Extra: Diff Range",
-      "scope": ["meta.diff.range", "meta.diff.index", "meta.separator"],
+      "scope": [
+        "meta.diff.range",
+        "meta.diff.index",
+        "meta.separator"
+      ],
       "settings": {
         "foreground": "#434343"
       }
@@ -82,49 +93,42 @@
   ],
   "colors": {
     "editor.findMatchBackground": "#EBCB8B",
-		"editor.findMatchHighlightBackground": "#FFD86381",
+    "editor.findMatchHighlightBackground": "#FFD86381",
     "editor.selectionBackground": "#BFDBFE",
     "editor.selectionHighlightBackground": "#CFCFCF81",
-
     "tab.activeForeground": "#474747",
-	  "tab.activeBackground": "#e2e2e2",
-	  "tab.inactiveBackground": "#ebebeb",
-	  "tab.border": "#e4e4e400",
-	  "tab.hoverBorder": "#e4e4e400",
-	  "tab.unfocusedHoverBorder": "#88c0d000",
-	  "tab.hoverBackground": "#e6e6e6",
-	  "tab.unfocusedHoverBackground": "#e6e6e6",
-	  "tab.inactiveForeground": "#545454c9",
-	  "tab.unfocusedActiveForeground": "#545454c9",
-	  "tab.unfocusedInactiveForeground": "#545454c9",
-	  "tab.lastPinnedBorder": "#e2e2e2",
-    
+    "tab.activeBackground": "#e2e2e2",
+    "tab.inactiveBackground": "#ebebeb",
+    "tab.border": "#e4e4e400",
+    "tab.hoverBorder": "#e4e4e400",
+    "tab.unfocusedHoverBorder": "#88c0d000",
+    "tab.hoverBackground": "#e6e6e6",
+    "tab.unfocusedHoverBackground": "#e6e6e6",
+    "tab.inactiveForeground": "#545454c9",
+    "tab.unfocusedActiveForeground": "#545454c9",
+    "tab.unfocusedInactiveForeground": "#545454c9",
+    "tab.lastPinnedBorder": "#e2e2e2",
     "editorGroupHeader.noTabsBackground": "#ebebeb",
-	  "editorGroupHeader.tabsBackground": "#ebebeb",
-	  "editorGroupHeader.tabsBorder": "#ebebeb",
-
+    "editorGroupHeader.tabsBackground": "#ebebeb",
+    "editorGroupHeader.tabsBorder": "#ebebeb",
     "panel.border": "#e2e2e2",
     "panelTitle.activeBorder": "#ebebeb",
     "panelTitle.activeForeground": "#474747",
     "panelTitle.inactiveForeground": "#b7b7b7",
-
     "titleBar.activeBackground": "#ebebeb",
     "titleBar.activeForeground": "#6e6e6e",
     "titleBar.inactiveBackground": "#ebebeb",
-
     "sideBar.background": "#ebebeb",
     "sideBar.border": "#e2e2e2",
     "sideBar.foreground": "#999999",
     "sideBarSectionHeader.background": "#ebebeb",
     "sideBarSectionHeader.border": "#e2e2e2",
-
     "activityBar.activeBorder": "#ebebeb",
     "activityBar.background": "#ebebeb",
     "activityBar.border": "#e2e2e2",
     "activityBar.foreground": "#474747",
     "activityBar.inactiveForeground": "#b7b7b7",
     "activityBarBadge.background": "#999999",
-
     "editor.background": "#ebebeb",
     "editor.foreground": "#515151",
     "editor.foldBackground": "#ebebeb",
@@ -150,7 +154,6 @@
     "editorWhitespace.foreground": "#d5d5d5",
     "editorWidget.background": "#ebebeb",
     "editorHoverWidget.statusBarBackground": "#ebebeb",
-
     "list.activeSelectionBackground": "#e2e2e2",
     "list.activeSelectionForeground": "#474747",
     "list.filterMatchBackground": "#d5d5d5",
@@ -166,16 +169,13 @@
     "listFilterWidget.background": "#ebebeb",
     "listFilterWidget.outline": "#b7b7b7",
     "listFilterWidget.noMatchesOutline": "#be1e0c",
-
     "menu.background": "#ebebeb",
     "menu.foreground": "#6e6e6e",
     "menubar.selectionBackground": "#e2e2e2",
-
     "scrollbarSlider.activeBackground": "#1010100f",
     "scrollbarSlider.background": "#1010100f",
     "scrollbarSlider.hoverBackground": "#1010100f",
     "scrollbar.shadow": "#ebebeb",
-
     "statusBar.background": "#ebebeb",
     "statusBar.border": "#e2e2e2",
     "statusBar.debuggingBackground": "#ebebeb",
@@ -187,12 +187,10 @@
     "statusBar.noFolderForeground": "#6e6e6e",
     "statusBarItem.activeBackground": "#ebebeb",
     "statusBarItem.hoverBackground": "#ebebeb",
-
     "settings.checkboxBorder": "#e2e2e2",
     "settings.dropdownBorder": "#e2e2e2",
     "settings.modifiedItemIndicator": "#bbbbbb",
     "settings.textInputBorder": "#e2e2e2",
-
     "gitDecoration.ignoredResourceForeground": "#c9c9c9",
     "gitDecoration.addedResourceForeground": "#6f9650",
     "gitDecoration.modifiedResourceForeground": "#D08770",
@@ -200,11 +198,9 @@
     "gitDecoration.untrackedResourceForeground": "#6f9650",
     "gitDecoration.conflictingResourceForeground": "#EBCB8B",
     "gitDecoration.submoduleResourceForeground": "#999999",
-
     "peekView.border": "#bbbbbb",
     "peekViewEditor.background": "#ebebeb",
-    "peekViewEditor.matchHighlightBackground": "#ebebeb",
-    "peekViewEditor.matchHighlightBorder": "#b7b7b7",
+    "peekViewEditor.matchHighlightBackground": "#e2e2e2",
     "peekViewEditorGutter.background": "#ebebeb",
     "peekViewResult.background": "#e6e6e6",
     "peekViewResult.fileForeground": "#686868",
@@ -212,7 +208,6 @@
     "peekViewResult.matchHighlightBackground": "#dedede",
     "peekViewResult.selectionBackground": "#ebebeb",
     "peekViewResult.selectionForeground": "#474747",
-
     "terminal.foreground": "#939393",
     "terminal.ansiBlack": "#3b4252",
     "terminal.ansiRed": "#bf616a",
@@ -233,7 +228,6 @@
     "terminal.tab.activeBorder": "#88c0d0",
     "terminalCursor.background": "#ebebeb",
     "terminalCursor.foreground": "#515151",
-    
     "debugIcon.breakpointCurrentStackframeForeground": "#6e6e6e",
     "debugIcon.breakpointDisabledForeground": "#6e6e6e",
     "debugIcon.breakpointForeground": "#6e6e6e",
@@ -250,7 +244,6 @@
     "debugIcon.stepOverForeground": "#6e6e6e",
     "debugIcon.stopForeground": "#6e6e6e",
     "debugToolBar.background": "#ebebeb",
-
     "window.activeBorder": "#e2e2e2",
     "input.background": "#ebebeb",
     "input.border": "#ebebeb",
