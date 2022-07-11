@@ -230,7 +230,7 @@
     "terminalCursor.foreground": "#515151",
     "debugIcon.breakpointCurrentStackframeForeground": "#6e6e6e",
     "debugIcon.breakpointDisabledForeground": "#6e6e6e",
-    "debugIcon.breakpointForeground": "#6e6e6e",
+    "debugIcon.breakpointForeground": "#BF616A",
     "debugIcon.breakpointStackframeForeground": "#6e6e6e",
     "debugIcon.breakpointUnverifiedForeground": "#6e6e6e",
     "debugIcon.continueForeground": "#6e6e6e",

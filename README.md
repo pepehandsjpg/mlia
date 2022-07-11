@@ -2,7 +2,7 @@
 
 unembellished vscode theme.
 
-minimal highlighting. just four classes.
+minimal highlighting. just four groups:
 
 - global definitions
 - strings
@@ -14,8 +14,11 @@ minimal highlighting. just four classes.
 ## Install
 
 1. Go to `Extensions`
-2. Search for `mlia`
+2. Search for `mliaa` (there is also an old version "mlia" so be careful)
 3. Install
+
+## Shhh
+to report a bug / request changes just open an issue 
 
 ## License
 

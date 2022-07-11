@@ -232,7 +232,7 @@
     "pickerGroup.foreground": "#979797",
     "debugIcon.breakpointCurrentStackframeForeground": "#8d8d8d",
     "debugIcon.breakpointDisabledForeground": "#8d8d8d",
-    "debugIcon.breakpointForeground": "#8d8d8d",
+    "debugIcon.breakpointForeground": "#BF616A",
     "debugIcon.breakpointStackframeForeground": "#8d8d8d",
     "debugIcon.breakpointUnverifiedForeground": "#8d8d8d",
     "debugIcon.continueForeground": "#8d8d8d",
