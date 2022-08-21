@@ -2,9 +2,10 @@
 
 unembellished vscode theme.
 
-minimal highlighting. just four groups:
+minimal highlighting. just five groups:
 
 - global definitions
+- support functions
 - strings
 - keywords, numbers, symbols, boolean values
 - comments

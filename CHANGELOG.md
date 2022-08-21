@@ -1,3 +1,7 @@
+# 0.0.4
+
+- added highlighting for fifth group (support functions)
+
 # 0.0.3
 
 - new breakpoint color

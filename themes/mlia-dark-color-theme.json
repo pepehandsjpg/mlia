@@ -52,6 +52,13 @@
       }
     },
     {
+      "name": "Support Functions",
+      "scope": "support.function",
+      "settings": {
+        "foreground": "#5596b3",
+      },
+    },
+    {
       "name": "Punctuation",
       "scope": "punctuation",
       "settings": {
