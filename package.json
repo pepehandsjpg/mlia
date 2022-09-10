@@ -11,10 +11,10 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/grdthh/mlia.git"
+        "url": "https://github.com/hashyael/mlia.git"
     },
     "bugs": {
-        "url": "https://github.com/grdthh/mlia/issues"
+        "url": "https://github.com/hashyael/mlia/issues"
     },
     "engines": {
         "vscode": "^1.65.0"

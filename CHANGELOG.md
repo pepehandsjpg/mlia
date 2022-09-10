@@ -1,3 +1,6 @@
+# 0.0.5
+- fixed repo links
+
 # 0.0.4
 
 - added highlighting for fifth group (support functions)
