@@ -1,5 +1,7 @@
-# 0.0.5
-- fixed repo links
+# 0.1.0
+- updated gh links
+- fixed selection background color for side bar search
+- new theme variation – mlia bloom, inspired by josef's [rouge theme](https://marketplace.visualstudio.com/items?itemName=josef.rouge-theme)
 
 # 0.0.4
 

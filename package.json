@@ -1,6 +1,6 @@
 {
     "name": "mliaa",
-    "displayName": "mliaa",
+    "displayName": "mlia",
     "description": "unembellished vscode theme",
     "icon": "icon.png",
     "version": "0.0.4",
@@ -33,6 +33,11 @@
                 "label": "mlia dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/mlia-dark-color-theme.json"
+            },
+            {
+                "label": "mlia bloom",
+                "uiTheme": "vs-dark",
+                "path": "./themes/mlia-bloom-color-theme.json"
             }
         ]
     }

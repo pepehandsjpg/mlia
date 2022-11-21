@@ -99,8 +99,8 @@
     }
   ],
   "colors": {
-    "editor.findMatchBackground": "#696969",
-    "editor.findMatchHighlightBackground": "#696969",
+    "editor.findMatchBackground": "#bfdbfe30",
+    "editor.findMatchHighlightBackground": "#bfdbfe30",
     "editor.selectionBackground": "#555555",
     "editor.selectionHighlightBackground": "#202020",
     "tab.activeBackground": "#212121",
