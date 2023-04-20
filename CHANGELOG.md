@@ -1,3 +1,6 @@
+# 0.1.2
+  - updated light variant sidebar colors
+
 # 0.1.1
   - added colors for debugger icons (dark)
   - made dark variant colors more eyes-friendly 
