@@ -10,7 +10,9 @@ minimal highlighting. just five groups:
 - keywords, numbers, symbols, boolean values
 - comments
 
-![Screenshot](https://raw.githubusercontent.com/grdthh/mlia/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/grdthh/mlia/master/screenshot-light.png)
+
+![Screenshot](https://raw.githubusercontent.com/grdthh/mlia/master/screenshot-dark.png)
 
 ## Install
 

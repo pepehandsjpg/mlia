@@ -1,6 +1,8 @@
 # 0.1.2
   - updated light variant sidebar colors
-
+  - fixed active tab background color (dark)
+  - new screenshots
+  
 # 0.1.1
   - added colors for debugger icons (dark)
   - made dark variant colors more eyes-friendly 
