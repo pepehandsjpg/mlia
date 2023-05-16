@@ -3,7 +3,7 @@
     "displayName": "mlia",
     "description": "unembellished vscode theme",
     "icon": "icon.png",
-    "version": "0.1.2",
+    "version": "0.2.0",
     "publisher": "grdthh",
     "license": "MIT",
     "maintainers": [
@@ -33,6 +33,11 @@
                 "label": "mlia dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/mlia-dark-color-theme.json"
+            },
+            {
+                "label": "mlia soft",
+                "uiTheme": "vs-dark",
+                "path": "./themes/mlia-soft-color-theme.json"
             }
         ]
     }

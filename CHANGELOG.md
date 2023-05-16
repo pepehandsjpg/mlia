@@ -1,3 +1,6 @@
+# 0.2.0
+  - implemented new soft dark variant
+
 # 0.1.2
   - updated light variant sidebar colors
   - fixed active tab background color (dark)
